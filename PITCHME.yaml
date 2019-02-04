@@ -1,0 +1,63 @@
+#
+# GitPitch Demo Deck
+#
+
+published : true
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : simple
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override : assets/css/PITCHME.css
+
+#
+# Highlight (Code) Setting
+# Doc: https://gitpitch.com/docs/settings/highlight
+#
+highlight : agate
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+logo : assets/img/logo.png
+logo-position : top-left
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote: "Modern Slide Decks for Developers"
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# MathJax Setting
+# Doc: https://gitpitch.com/docs/rich-media-features/math-formulas
+#
+mathjax : TeX-MML-AM_HTMLorMML-full
+
+#
+# Charts Setting
+# Doc: https://gitpitch.com/docs/rich-media-features/charts
+#
+charts : true
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch Modern Slide Decks for Developers"
+description : "A Modern Slide Deck demonstration powered by Markdown."
+thumbnail : https://gitpitch.com/gpimg/demo-deck-thumb.jpg
+

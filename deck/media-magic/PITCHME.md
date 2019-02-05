@@ -1,14 +1,17 @@
 ---?image=assets/img/media.jpg
+@title[Media Magic]
 
 @snap[east span-50]
 ## @color[white](Media) Magic
 @snapend
 
 ---?image=assets/img/splash.jpg&opacity=50
+@title[Inline Video]
 
 ![Gravity](https://player.vimeo.com/video/125471012)
 
 ---?color=black
+@title[Data-Driven Charts]
 
 @snap[north-east h4-white span-40]
 #### Data-Driven Charts
@@ -39,8 +42,8 @@
 
 @snapend
 
-
 ---?image=assets/img/whiteboard.jpg
+@title[Math Formulas]
 
 @snap[north h3-black span-100]
 ### Math Formulas
@@ -56,6 +59,7 @@
 @snapend
 
 ---?image=assets/img/lamps.jpg&size=90% 60%&color=#08090D&position=top
+@title[FontAwesome + Emojis]
 
 @snap[north-east h4-white span-50]
 #### FontAwesome + Emojis

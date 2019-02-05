@@ -1,4 +1,5 @@
 ---?image=assets/img/writer.jpg
+@title[Markdown Magic]
 
 @snap[midpoint h1-white h2-white]
 ## Markdown
@@ -7,6 +8,7 @@
 @snapend
 
 ---?image=assets/img/jellyfish.jpg
+@title[Box Widgets]
 
 @snap[north h4-white span-100]
 #### Markdown Box Widgets
@@ -25,6 +27,7 @@
 @snapend
 
 ---?color=#EFF0F2
+@title[Slide Fragments]
 
 @snap[north span-100]
 #### Markdown Slide Fragments
@@ -43,6 +46,7 @@
 @snapend
 
 ---?image=assets/img/audience.png&color=#E58537&position=bottom&size=100% 40%
+@title[Quote Widgets]
 
 @snap[north h4-white span-100]
 #### Markdown Quote Widgets

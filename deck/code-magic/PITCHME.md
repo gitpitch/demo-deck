@@ -1,4 +1,5 @@
 ---?color=#e58537
+@title[Code Magic]
 
 @snap[west h2-white span-50]
 ## Code Magic
@@ -13,6 +14,7 @@
 @snapend
 
 ---?color=#333
+@title[Code Presenting]
 
 @code[golang zoom-21](src/go/sample.go)
 
@@ -23,14 +25,16 @@
 @snapend
 
 ---?color=#333
+@title[CSS Zoom]
 
 @code[css zoom-18](src/css/sample.css)
 
 ---?color=#333
+@title[HTTP Zoom]
 
 @code[http zoom-15](src/http/sample.http)
 
 ---?color=#333
+@title[SQL Zoom]
 
 @code[sql zoom-19](src/sql/sample.sql)
-

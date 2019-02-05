@@ -1,4 +1,4 @@
-
+@title[A GitPitch Demo]
 # GitPitch
 
 #### Modern Slide Decks for Developers
@@ -14,6 +14,7 @@
 ---?include=deck/media-magic/PITCHME.md
 
 ---?image=assets/img/wall.jpg
+@title[Now It's Your Turn]
 
 @snap[north-east]
 ## Demo End

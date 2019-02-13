@@ -58,6 +58,20 @@
 
 @snapend
 
+---?color=#E58537;
+
+@snap[north-west h4-white span-50]
+#### PlantUML Diagrams
+@snapend
+
+@snap[west span-60]
+@code[uml rawcode zoom-15](src/uml/sequence.puml)
+@snapend
+
+@snap[east span-40]
+@uml[span-100 box-shadow bg-white](src/uml/sequence.puml)
+@snapend
+
 ---?image=assets/img/lamps.jpg&size=90% 60%&color=#08090D&position=top
 @title[FontAwesome + Emojis]
 

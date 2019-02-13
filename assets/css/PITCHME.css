@@ -19,6 +19,7 @@
 
 /** Code-Presenting Custom Styles ***/
 
+
 .reveal pre {
   width: 98%;
   margin: 0px;
@@ -46,6 +47,11 @@
   border-radius: 15px;
   opacity: 0.95 !important;
   font-size: 50% !important;
+}
+
+.rawcode {
+    background: none;
+    box-shadow: none;
 }
 
 /* Slideshow Auxiliary Styles */

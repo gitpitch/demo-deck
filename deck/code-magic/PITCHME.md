@@ -19,9 +19,9 @@
 @code[golang zoom-21](src/go/sample.go)
 
 @snap[south span-100]
-@[1](GitPitch presentation authors can step through code directly within slide decks.)
-@[3](Using GitPitch live code presentating with optional annotations.)
-@[5-7](Which means no need to switch back and forth between your slide deck and IDE.)
+@[1, zoom-27](GitPitch presentation authors can step-and-zoom into code directly on any slide.)
+@[3, zoom-27](Using GitPitch live code presentating with optional annotations.)
+@[5,7, zoom-20](Which means no more switching back and forth between your slide deck and IDE.)
 @snapend
 
 ---?color=#333

@@ -16,7 +16,7 @@
 ---
 @title[Code Presenting]
 
-@code[golang zoom-21 code-power](src/go/sample.go)
+@code[golang zoom-20 code-power](src/go/sample.go)
 
 @snap[south span-100]
 @[1, zoom-27](GitPitch presentation authors can step-and-zoom into code directly on any slide.)

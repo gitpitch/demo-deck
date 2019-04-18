@@ -20,16 +20,13 @@
 /** Code-Presenting Custom Styles ***/
 
 
-.reveal pre {
+pre code.thumbnail {
   width: 98%;
   margin: 0px;
   box-shadow: none;
 }
 
 .reveal pre code {
-  font-size: 1.2em;
-  line-height: 1.2;
-  border-radius: 10px;
   max-height: 60vh !important;
   overflow: hidden !important;
 }

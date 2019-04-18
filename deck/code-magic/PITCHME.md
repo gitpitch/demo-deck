@@ -6,17 +6,17 @@
 @snapend
 
 @snap[east span-40]
-@code[go zoom-06](src/go/sample.go)
+@code[go zoom-04 thumbnail](src/go/sample.go)
 <br>
-@code[http zoom-06](src/http/sample.http)
+@code[http zoom-04 thumbnail](src/http/sample.http)
 <br>
-@code[sql zoom-06](src/sql/sample.sql)
+@code[sql zoom-04 thumbnail](src/sql/sample.sql)
 @snapend
 
----?color=#333
+---
 @title[Code Presenting]
 
-@code[golang zoom-21](src/go/sample.go)
+@code[golang zoom-21 code-power](src/go/sample.go)
 
 @snap[south span-100]
 @[1, zoom-27](GitPitch presentation authors can step-and-zoom into code directly on any slide.)
@@ -24,17 +24,17 @@
 @[5,7, zoom-20](Which means no more switching back and forth between your slide deck and IDE.)
 @snapend
 
----?color=#333
+---
 @title[CSS Zoom]
 
-@code[css zoom-18](src/css/sample.css)
+@code[css zoom-18 code-power](src/css/sample.css)
 
----?color=#333
+---
 @title[HTTP Zoom]
 
-@code[http zoom-15](src/http/sample.http)
+@code[http zoom-15 code-power](src/http/sample.http)
 
----?color=#333
+---
 @title[SQL Zoom]
 
-@code[sql zoom-19](src/sql/sample.sql)
+@code[sql zoom-19 code-power](src/sql/sample.sql)

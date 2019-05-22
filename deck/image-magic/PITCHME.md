@@ -1,7 +1,7 @@
 ---?color=black
 @title[Image Magic]
 
-@snap[west h2-white span-50]
+@snap[west span-50 h2-white]
 ## Image Magic
 @snapend
 
@@ -14,10 +14,21 @@
 
 # Image Magic
 
----?image=assets/img/butterflies.png&position=center left&size=55% auto&color=#E58537
+---?image=assets/img/flowers.png&color=#E58537&position=left&size=55% auto
 @title[Image Scaling]
 
-@snap[east h2-white span-50]
+@snap[east span-50 h2-white]
+## Image Magic
+@snapend
+
+---?color=white
+@title[Image Sizing]
+
+@snap[east span-50]
+![](assets/img/jaguar.png)
+@snapend
+
+@snap[west span-50]
 ## Image Magic
 @snapend
 

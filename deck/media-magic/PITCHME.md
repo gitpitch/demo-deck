@@ -49,7 +49,7 @@
 ### Math Formulas
 @snapend
 
-@snap[midpoint text-black text-12 fragment]
+@snap[midpoint text-black text-11 fragment]
 
 `\[
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq

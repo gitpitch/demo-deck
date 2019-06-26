@@ -52,7 +52,7 @@
 #### Markdown Quote Widgets
 @snapend
 
-@snap[west text-06 text-white span-30]
+@snap[west text-06 text-white span-31]
 @quote[Just discovered GitPitch. And WOW!](@fa[twitter] @akosma)
 @snapend
 
@@ -60,7 +60,7 @@
 @quote[The best slide creation tool I've ever used.](@fa[twitter] @PermittedSoc)
 @snapend
 
-@snap[east text-06 text-white span-30]
+@snap[east text-06 text-white span-31]
 @quote[GitPitch Desktop with speaker notes is AMAZING!](@fa[twitter] @davetapley)
 @snapend
 

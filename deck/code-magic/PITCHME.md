@@ -5,12 +5,12 @@
 ## Code Magic
 @snapend
 
-@snap[east span-40]
-@code[go zoom-04 thumbnail](src/go/sample.go)
+@snap[east span-35]
+@code[go zoom-05 code-noblend](src/go/sample.go)
 <br>
-@code[http zoom-04 thumbnail](src/http/sample.http)
+@code[http zoom-05](src/http/sample.http)
 <br>
-@code[sql zoom-04 thumbnail](src/sql/sample.sql)
+@code[sql zoom-05](src/sql/sample.sql)
 @snapend
 
 ---
@@ -21,7 +21,7 @@
 @snap[south span-100]
 @[1, zoom-27](GitPitch presentation authors can step-and-zoom into code directly on any slide.)
 @[3, zoom-27](Using GitPitch live code presentating with optional annotations.)
-@[5,7, zoom-20](Which means no more switching back and forth between your slide deck and IDE.)
+@[5-7](Which means no more switching back and forth between your slide deck and IDE.)
 @snapend
 
 ---
@@ -37,4 +37,4 @@
 ---
 @title[SQL Zoom]
 
-@code[sql zoom-19 code-power](src/sql/sample.sql)
+@code[sql zoom-18 code-power](src/sql/sample.sql)

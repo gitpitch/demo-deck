@@ -8,7 +8,10 @@ published : true
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme : template
+theme-headline : [ "Montserrat", "black", "none"]
+theme-byline   : [ "Raleway", "black", "none"]
+theme-text     : [ "Lato", "black", "none"]
 
 #
 # Theme-Override Setting
@@ -60,4 +63,3 @@ charts : true
 title : "GitPitch Modern Slide Decks for Developers"
 description : "A Modern Slide Deck demonstration powered by Markdown."
 # thumbnail : assets/img/customthumb.png
-

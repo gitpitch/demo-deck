@@ -45,6 +45,21 @@
 ![](assets/img/devdeploy.png)
 @snapend
 
+---?color=black
+
+@snap[north span-100]
+#### Markdown List Widget
+@snapend
+
+@ul[text-10 list-spaced-bullets list-fade-fragments]
+- Markdown
+- Modular
+- Git Native
+- Speaker Ready
+- Cross Platform
+@ulend
+
+
 ---?image=assets/img/audience.png&color=#E58537&position=bottom&size=100% 40%
 @title[Quote Widgets]
 

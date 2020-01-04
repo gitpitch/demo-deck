@@ -51,7 +51,7 @@
 #### Markdown List Widget
 @snapend
 
-@ul[text-10 list-spaced-bullets list-fade-fragments]
+@ul[list-spaced-bullets list-fade-fragments]
 - Markdown
 - Modular
 - Git Native

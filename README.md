@@ -2,4 +2,4 @@
 
 # GitPitch Demo Deck
 
-Modern Slide Deck demonstration powered by Markdown.
+Slide Decks for Developers on MacOS, Linux, Windows 10. Present offline. Share online. Export to PDF and PPTX.

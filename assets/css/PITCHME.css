@@ -1,5 +1,7 @@
-#gp-logo img { height: 2.5em; }
-div.progress { display: none !important; }
-div.slide-number { display: none !important; }
-#title-footer { display: none !important; }
+// Your CSS custom style rules go here.
+
+.h2-spaced { letter-spacing: 8px !important; }
+.blue-faded { color: #0082F3 !important; }
+.red-faded { color: #FF5950 !important; }
+.rounded { border-radius: 20px !important; }
 

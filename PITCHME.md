@@ -1,51 +1,29 @@
-# Welcome to **GitPitch**
+@md[title=GitPitch](assets/md/splash.md)
 
----?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
-@title[Slide Decks for Developers]
+[drag=10 10, drop=-25 60, opacity=0.7, set=h2-silver fragment, fit=1, animate=bouncedown, filter=contrast]
 
-@snap[east span-50 text-center]
-## GitPitch
-#### Slide Decks
-#### for
-### Developers
-@snapend
+## 4.0
 
----?include=deck/desktop/PITCHME.md
+[drag=100 20, drop=bottom]
+Markdown Slide Decks
 
----?include=deck/theme/PITCHME.md
+---?include=deck/solution/PITCHME.md
 
----?include=deck/layout/PITCHME.md
+---?include=deck/4.0/PITCHME.md
+
+---?include=deck/grid-layouts/PITCHME.md
+
+---?include=deck/images/PITCHME.md
+
+---?include=deck/lists-stacks/PITCHME.md
+
+---?include=deck/diagrams/PITCHME.md
+
+---?include=deck/maths/PITCHME.md
+
+---?include=deck/embeds/PITCHME.md
 
 ---?include=deck/code/PITCHME.md
 
----?include=deck/widgets/PITCHME.md
-
----?include=deck/media/PITCHME.md
-
----?image=assets/img/robot.jpg&opacity=20
-@title[Available Everywhere]
-
-#### Available Everywhere You Work
-<br>
-## MacOS, Linux,<br>and Windows 10<sup>*</sup>
-
-@snap[south span-100 text-smallcaps text-06 text-gray]
-<sup>*</sup>MacOS, Linux, Windows 10 Pro + Enterprise
-@snapend
-
----?image=assets/img/fireworks.gif&opacity=40&size=100% 50%&position=center
-@title[Now It's Your Turn]
-
-@snap[north span-100 text-smallcaps text-08]
-Slide Decks for Developers
-@snapend
-
-@snap[midpoint span-100 text-center text-13]
-##### Are you ready to
-## Git**Pitch**?
-@snapend
-
-@snap[south span-100 font-bubblegum text-center text-10 fragment]
-[Start your free trial today @fa[external-link]](https://gitpitch.com/pricing)
-@snapend
+---?include=deck/cta/PITCHME.md
 
